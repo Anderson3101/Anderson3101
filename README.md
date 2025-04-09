@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Anderson Zimmermann 👋</h1>
 
-<!--
-**Anderson3101/Anderson3101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🌱 Estudante de Python, Django, HTML e CSS  
+  <br/>
+  📍 Blumenau - SC  
+  <br/>
+  🚀 Buscando oportunidades para aplicar e crescer como desenvolvedor
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tecnologias que estou estudando:
+
+<div style="display: flex; flex-direction: row;">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+</div>
+
+---
+
+### 🔧 Projetos em destaque:
+- 📌 [Sistema de Cadastro de Usuários](https://github.com/Anderson3101/seu-projeto-1)
+- 📌 [Controle de Despesas com Django](https://github.com/Anderson3101/seu-projeto-2)
+- 📌 [Meu primeiro site com HTML e CSS](https://github.com/Anderson3101/seu-projeto-3)
+
+---
+
+### 📫 Contato:
+
+- 💼 [LinkedIn]((https://www.linkedin.com/in/andersonzimmermann)
+- 📧 Email: anderson@legacysistemas.com
+
+---
+
+### 📊 Estatísticas:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anderson3101&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson3101&layout=compact&theme=radical" height="160"/>
+</p>
+
+---
+
+⚡ *"A prática leva à perfeição. Todo dia um passo a mais."*
