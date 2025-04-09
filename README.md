@@ -21,10 +21,10 @@
 
 ---
 
-### 🔧 Projetos em destaque:
-- 📌 [Sistema de Cadastro de Usuários](https://github.com/Anderson3101/seu-projeto-1)
-- 📌 [Controle de Despesas com Django](https://github.com/Anderson3101/seu-projeto-2)
-- 📌 [Meu primeiro site com HTML e CSS](https://github.com/Anderson3101/seu-projeto-3)
+### 🔧 Projetos:
+- 📌 [Sistema de Cadastro de Usuários]()
+- 📌 [Controle de Despesas com Django]()
+- 📌 [Meu primeiro site com HTML e CSS]()
 
 ---
 
